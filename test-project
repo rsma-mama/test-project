@@ -1,1 +1,1 @@
-echo "# これは test-project です" > README.md
+echo "Hello Git" > readme.txt
